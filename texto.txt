@@ -3,3 +3,5 @@ inicio do curso
 <comecando o projeto>
 
 tudo de novo
+
+agora iniciar o indice
